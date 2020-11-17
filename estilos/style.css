@@ -7,10 +7,25 @@ body{
     background-color: rgb(224, 125, 125);
 }
 
+h2{
+    font-size: 1.5em;
+    color: rgb(138, 86, 67);
+}
+
+img.lado{
+    float: right;
+}
+
 main{
     background-color: white;
     width: 500px;
     margin: auto;
-    padding: 10px;
+    padding: 30px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.452);
+}
+
+footer{
+    text-align: center;
+    color: white;
+    font-style: italic;
 }
