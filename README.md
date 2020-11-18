@@ -1,2 +1,3 @@
 # Projeto-Site
- Projeto de um site
+Um site simples utilizando apenas HTML e CSS para testar o GitHub Pages
+
